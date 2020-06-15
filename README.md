@@ -1,4 +1,1 @@
-# csci490
-Aaron Keith and Zhuowei Li's Workout Program
-Welcome to our workout page. Our goal is to allow users to enter choose between workout plans which in turn will let our systems print
-a plan for them in form of a calendar that can also keep track of workouts.
+为爱好健身的用户设计了一个可以根据自身喜好来挑选健身类型的网站。用户需要进行注册和登录账号，挑选自己喜欢的健身项目并且加入自己的个人健身列表中。管理员身份可以对健身类型的信息进行修改，信息包括健身名称、组数和消耗卡路里。用户可以添加或者删除个人健身列表信息中的健身种类。
